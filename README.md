@@ -7,5 +7,5 @@ Bu repo sevdiyim və oxuduğum fərqli kateqoriyalarda olan bloq yazılarını e
 
 ## Rust
 - https://without.boats/
-- 
+- https://xnacly.me/
 ## Golang
